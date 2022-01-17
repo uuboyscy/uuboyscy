@@ -35,7 +35,22 @@ I'm a Data Engineer. <br>
 <br>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <img src="https://img.icons8.com/color/48/4a90e2/c-programming.png"/><img src="https://img.icons8.com/color/48/4a90e2/c-plus-plus-logo.png"/><img src="https://img.icons8.com/color/48/4a90e2/python--v1.png"/><img src="https://img.icons8.com/color/48/4a90e2/java-coffee-cup-logo--v1.png"/><img src="https://img.icons8.com/color/48/4a90e2/visual-studio-code-2019.png"/><img src="https://img.icons8.com/color/48/4a90e2/git.png"/><img src="https://img.icons8.com/fluent/48/4a90e2/github.png"/> </p>
+<p align="left"> 
+<!--   <img src="https://img.icons8.com/color/48/4a90e2/c-programming.png"/>
+  <img src="https://img.icons8.com/color/48/4a90e2/c-plus-plus-logo.png"/> -->
+  
+  <img src="https://img.icons8.com/color/48/4a90e2/python--v1.png"/>
+  <img src="https://img.icons8.com/color/48/4a90e2/java-coffee-cup-logo--v1.png"/>
+  <img src="https://img.icons8.com/color/48/4a90e2/pycharm"/>
+  <img src="https://img.icons8.com/color/48/4a90e2/intellij-idea.png"/>
+  <img src="https://img.icons8.com/color/48/4a90e2/visual-studio-code-2019.png"/>
+  <img src="https://img.icons8.com/fluency/48/4a90e2/docker.png"/>
+  <img src="https://img.icons8.com/color/48/4a90e2/git.png"/>
+  <img src="https://img.icons8.com/color/48/4a90e2/gitlab.png"/>
+  <img src="https://img.icons8.com/fluent/48/4a90e2/github.png"/>
+  <img src="https://img.icons8.com/color/48/4a90e2/jenkins.png"/>
+  <img src="https://img.icons8.com/color/48/4a90e2/hadoop-distributed-file-system.png"/>
+</p>
 
 <br>
 <br>
@@ -44,7 +59,7 @@ I'm a Data Engineer. <br>
 
 <img src = "https://github-readme-stats.vercel.app/api?username=uuboyscy&show_icons=true&theme=dark" width = 500>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uuboyscy&theme=dark)](https://github.com/uuboyscy/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uuboyscy&theme=dark)](https://github.com/uuboyscy)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Thanks+For+Visiting!!&center=true&color="FF0000")](https://github.com/uuboyscy)
 
