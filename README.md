@@ -25,9 +25,10 @@ I'm a Data Engineer. <br>
 <!-- <img align='right' src="http://cdn.lowgif.com/small/9cb12f51dffbaaa6-character-typing-by-vincent-mokuenko-dribbble.gif" width="250" height="210"> -->
 
 - Hadoop, Spark, Flink, Hive, Hbase
-- Python, Java
+- Python, Java, Shell
 - Flask, Springboot
 - MySQL, MongoDB, Redis
+- Kafka, RabbitMQ
 - Git, GitLab, CI/CD, Jenkins
 - Docker, Docker-compose
 - AWS, GCP
