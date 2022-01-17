@@ -24,12 +24,13 @@ Here are some ideas to get you started:
 I'm a Data Engineer. <br>
 <!-- <img align='right' src="http://cdn.lowgif.com/small/9cb12f51dffbaaa6-character-typing-by-vincent-mokuenko-dribbble.gif" width="250" height="210"> -->
 
-- Hadoop, Spark, Flink, Hive, Hbase.
-- Python, Java.
+- Hadoop, Spark, Flink, Hive, Hbase
+- Python, Java
 - Flask, Springboot
-- MySQL, MongoDB, Redis.
-- Git, GitLab, CI/CD, Jenkins.
+- MySQL, MongoDB, Redis
+- Git, GitLab, CI/CD, Jenkins
 - Docker, Docker-compose
+- AWS, GCP
 
 <br>
 
@@ -43,7 +44,7 @@ I'm a Data Engineer. <br>
 
 <img src = "https://github-readme-stats.vercel.app/api?username=uuboyscy&show_icons=true&theme=dark" width = 500>
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tanyagupta0201&theme=dark)](https://github.com/uuboyscy/github-readme-stats) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uuboyscy&theme=dark)](https://github.com/uuboyscy/github-readme-stats)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Thanks+For+Visiting!!&center=true&color="FF0000")](https://github.com/uuboyscy)
 
