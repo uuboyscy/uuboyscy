@@ -60,7 +60,7 @@ I'm a Data Engineer. <br>
 
 <img src = "https://github-readme-stats.vercel.app/api?username=uuboyscy&show_icons=true&theme=dark" width = 500>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uuboyscy&theme=dark&layout=compact)](https://github.com/uuboyscy)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uuboyscy&theme=dark&layout=compact&langs_count=8)](https://github.com/uuboyscy)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Thanks+For+Visiting!!&center=true&color="FF0000")](https://github.com/uuboyscy)
 
