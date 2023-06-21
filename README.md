@@ -58,9 +58,9 @@ I'm a Data Engineer. <br>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=uuboyscy&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-<img src = "https://github-readme-stats.vercel.app/api?username=uuboyscy&show_icons=true&theme=dark" width = 500>
+<!--img src = "https://github-readme-stats.vercel.app/api?username=uuboyscy&show_icons=true&theme=dark" width = 500-->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uuboyscy&theme=dark&layout=compact&langs_count=8)](https://github.com/uuboyscy)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uuboyscy&theme=dark&layout=compact&langs_count=8&hide=jupyter%20notebook,openedge%20abl,css,cython,vba,smarty,jinja,fortran&exclude_repo=thi101,chi101-python-etl-dm-flask,tgi103,cfb101-python,tfb102,tibame-db105,cgi101,ceb102-course,eb103-python,tgi102,PORTFOLIO,tgi101,CFI102,CFI101,TFI101,TFB103,cfb101-git-practice,tfb101,ceb101-python,teb103-pyetl,teb103-python,ceb101-flask,ceb101-pyetl,course-html,teb102-pyetl,eb103-PyETL,EB102-PyETL,eb102-python,teb101-PyETL,PyETL-EB101,tibame-db106,cb104)](https://github.com/uuboyscy)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Thanks+For+Visiting!!&center=true&color="FF0000")](https://github.com/uuboyscy)
 
@@ -68,4 +68,3 @@ I'm a Data Engineer. <br>
 
 Credit: [uuboyscy](https://github.com/uuboyscy)
 
-Last Edited on: 2022/01/28
