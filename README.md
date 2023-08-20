@@ -27,10 +27,11 @@ I'm a Data Engineer. <br>
 - Hadoop, Spark, Flink, Hive, Hbase
 - Python, Java, Shell
 - Flask, Springboot
+- Airbyte, dbt
 - MySQL, MongoDB, Redis
 - Kafka, RabbitMQ
-- Git, GitLab, CI/CD, Jenkins
-- Docker, Docker-compose
+- Git, GitLab, Jenkins, CI/CD
+- Docker, K8s
 - AWS, GCP
 
 <br>
