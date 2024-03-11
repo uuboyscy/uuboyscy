@@ -28,6 +28,7 @@ I'm a Data Engineer. <br>
 - Python, Java, Shell
 - Flask, Springboot
 - Airbyte, dbt
+- Prefect, Airflow
 - MySQL, MongoDB, Redis
 - Kafka, RabbitMQ
 - Git, GitLab, Jenkins, CI/CD
