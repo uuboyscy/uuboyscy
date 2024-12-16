@@ -61,9 +61,10 @@
 ---
 
 ### ✨ Fun Facts
-- ⚡ I’ve worked with **on-premise Hadoop** setups, helping clients meet **strict privacy requirements**.
-- 🌱 Outside of work, I enjoy fitness, cycling, and playing the piano. 🚴‍♂️🎹
-- 🔗 Side projects include **stock analysis tools** and **ETL monitoring dashboards**.
+-	🌟 Seamlessly connecting dots in data, one pipeline at a time.
+-	🤹 Data engineer by profession, street performer and juggler by passion.
+-	🎯 Every data puzzle solved is another masterpiece created.
+-	🚴‍♂️ Cycling, music, and creativity keep my ideas in motion.
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Building+scalable+data+solutions.;Creating+cloud-native+pipelines.;Thanks+for+stopping+by!&center=true&color=FF0000&size=19">
