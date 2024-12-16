@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <h1>Hey there, I'm <a  href="https://github.com/uuboyscy/">Allen Shi </a> <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
 [![linkedin badge](https://img.shields.io/badge/uuboyscy-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/chengyou-shi/)
-[![Gmail Badge](https://img.shields.io/badge/aegis12321@gmail.com-30302f?style=flat&logo=Gmail&logoColor=red)](mailto:aegis12321@gmail.com)
+[![Mail Badge](https://img.shields.io/badge/uuboyscy@uuboyscy.dev-30302f?style=flat&logo=Mail.Ru&logoColor=red)](mailto:uuboyscy@uuboyscy.dev)
 <img src="https://komarev.com/ghpvc/?username=uuboyscy&style=plastic" />
 
 I'm a Data Engineer. <br>
